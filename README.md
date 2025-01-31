@@ -40,9 +40,10 @@ The dataset used is the **Iris dataset**, which contains:
 - The K-Means model successfully segmented the species based on their features.
 
 ![download](https://github.com/user-attachments/assets/abb7e950-3bfc-413f-bedf-d8799317ce84)
-![download](https://github.com/user-attachments/assets/29279368-fab7-4784-aa02-4220c3bdc1b4)
-![download](https://github.com/user-attachments/assets/ef0e82bc-f213-4fc0-921a-d5840144275d)
-![download](https://github.com/user-attachments/assets/43c5d872-5461-4e0e-8939-0524cf054410)
+![download](https://github.com/user-attachments/assets/4e0059ea-98cd-4494-b164-6536314eb7c3)
+![download](https://github.com/user-attachments/assets/fc1342da-7ebf-46c0-b7f1-b32d155b1ca8)
+![download](https://github.com/user-attachments/assets/dcad4d13-ad13-4b87-8767-71e815c6eead)
+
 
 
 ---
